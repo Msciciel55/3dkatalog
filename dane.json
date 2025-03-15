@@ -1,6 +1,7 @@
 [
     {
         "title": "Pancerz Diego",
+        "description": "Elegancki stół wykonany z drewna dębowego.",
         "thumbnail": "thumbnails/thumbnail1.jpg",
         "model": "assets/models/model2.glb",
         "category": "Stoły"
