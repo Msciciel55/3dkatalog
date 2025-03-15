@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const categoryButtons = document.querySelectorAll('.category-button');
 
     // URL do pliku JSON na GitHubie
-    const jsonUrl = 'https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/refs/heads/main/dane.json';
+    const jsonUrl = 'https://raw.githubusercontent.com/Msciciel55/3dkatalog/refs/heads/main/dane.json';
 
     let models = [];
 
