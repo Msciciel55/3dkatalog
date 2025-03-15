@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Stół drewniany",
+        "thumbnail": "https://wallbeing.com/2272-thickbox_default/grafika-joker.jpg",
+        "model": "https://github.com/Msciciel55/models/raw/refs/heads/main/model1.glb",
+        "category": "Stoły"
+    },
+    {
+        "title": "Krzesło nowoczesne",
+        "thumbnail": "https://example.com/thumbnail2.jpg",
+        "model": "https://raw.githubusercontent.com/Msciciel55/models/blob/main/model2.glb",
+        "category": "Krzesła"
+    },
+    {
+        "title": "Łóżko klasyczne",
+        "thumbnail": "https://example.com/thumbnail3.jpg",
+        "model": "https://example.com/model3.glb",
+        "category": "Łóżka"
+    },
+    {
+        "title": "Skrzynia drewniana",
+        "thumbnail": "https://example.com/thumbnail4.jpg",
+        "model": "https://example.com/model4.glb",
+        "category": "Skrzynie"
+    }
+]
