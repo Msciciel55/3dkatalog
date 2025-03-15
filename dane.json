@@ -1,6 +1,6 @@
 [
     {
-        "title": "Pancerz Diegoxxx",
+        "title": "Pancerz Diegoxxx12131",
         "description": "Elegancki stół wykonany z drewna dębowego.",
         "thumbnail": "thumbnails/thumbnail1.jpg",
         "model": "assets/models/model1.glb",
@@ -11,6 +11,55 @@
         "description": "Elegancki stół wykonany z drewna dębowego.",
         "thumbnail": "thumbnails/thumbnail2.jpg",
         "model": "assets/models/model2.glb",
+        "category": "Stoły"
+    },
+    {
+        "title": "Pancerz Diegoxxx",
+        "description": "Elegancki stół wykonany z drewna dębowego.",
+        "thumbnail": "thumbnails/thumbnail1.jpg",
+        "model": "assets/models/model1.glb",
+        "category": "Stoły"
+    },
+        {
+        "title": "Pancerz Diegoxxx",
+        "description": "Elegancki stół wykonany z drewna dębowego.",
+        "thumbnail": "thumbnails/thumbnail1.jpg",
+        "model": "assets/models/model1.glb",
+        "category": "Stoły"
+    },
+        {
+        "title": "Pancerz Diegoxxx",
+        "description": "Elegancki stół wykonany z drewna dębowego.",
+        "thumbnail": "thumbnails/thumbnail1.jpg",
+        "model": "assets/models/model1.glb",
+        "category": "Stoły"
+    },
+        {
+        "title": "Pancerz Diegoxxx",
+        "description": "Elegancki stół wykonany z drewna dębowego.",
+        "thumbnail": "thumbnails/thumbnail1.jpg",
+        "model": "assets/models/model1.glb",
+        "category": "Stoły"
+    },
+        {
+        "title": "Pancerz Diegoxxx",
+        "description": "Elegancki stół wykonany z drewna dębowego.",
+        "thumbnail": "thumbnails/thumbnail1.jpg",
+        "model": "assets/models/model1.glb",
+        "category": "Stoły"
+    },
+        {
+        "title": "Pancerz Diegoxxx",
+        "description": "Elegancki stół wykonany z drewna dębowego.",
+        "thumbnail": "thumbnails/thumbnail1.jpg",
+        "model": "assets/models/model1.glb",
+        "category": "Stoły"
+    },
+        {
+        "title": "Pancerz Diegoxxx",
+        "description": "Elegancki stół wykonany z drewna dębowego.",
+        "thumbnail": "thumbnails/thumbnail1.jpg",
+        "model": "assets/models/model1.glb",
         "category": "Stoły"
     }
 ]
