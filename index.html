@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Katalog Modeli 3D</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Katalog Modeli 3D</h1>
+        <div class="category-buttons">
+            <button class="category-button" data-category="all">Wszystko</button>
+            <button class="category-button" data-category="Stoły">Stoły</button>
+            <button class="category-button" data-category="Krzesła">Krzesła</button>
+            <button class="category-button" data-category="Łóżka">Łóżka</button>
+            <button class="category-button" data-category="Skrzynie">Skrzynie</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="model-grid"></section>
+
+        <div id="model-viewer">
+            <button id="close-viewer">Zamknij</button>
+            <model-viewer src="" alt="Model 3D" auto-rotate camera-controls></model-viewer>
+        </div>
+    </main>
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
