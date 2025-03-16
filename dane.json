@@ -4,62 +4,27 @@
         "description": "Elegancki stół wykonany z drewna dębowego.",
         "thumbnail": "thumbnails/thumbnail1.jpg",
         "model": "assets/models/model1.glb",
-        "category": "Stoły"
+        "category": "Meble"
     },
         {
         "title": "Pancerz Diego2",
         "description": "Elegancki stół wykonany z drewna dębowego.",
         "thumbnail": "thumbnails/thumbnail2.jpg",
         "model": "assets/models/model2.glb",
-        "category": "Stoły"
+        "category": "Skrzynie"
     },
     {
         "title": "Pancerz Diegoxxx",
         "description": "Elegancki stół wykonany z drewna dębowego.",
         "thumbnail": "thumbnails/thumbnail1.jpg",
         "model": "assets/models/model1.glb",
-        "category": "Stoły"
+        "category": "Stoły craftingowe"
     },
         {
         "title": "Pancerz Diegoxxx",
         "description": "Elegancki stół wykonany z drewna dębowego.",
         "thumbnail": "thumbnails/thumbnail1.jpg",
         "model": "assets/models/model1.glb",
-        "category": "Stoły"
-    },
-        {
-        "title": "Pancerz Diegoxxx",
-        "description": "Elegancki stół wykonany z drewna dębowego.",
-        "thumbnail": "thumbnails/thumbnail1.jpg",
-        "model": "assets/models/model1.glb",
-        "category": "Stoły"
-    },
-        {
-        "title": "Pancerz Diegoxxx",
-        "description": "Elegancki stół wykonany z drewna dębowego.",
-        "thumbnail": "thumbnails/thumbnail1.jpg",
-        "model": "assets/models/model1.glb",
-        "category": "Stoły"
-    },
-        {
-        "title": "Pancerz Diegoxxx",
-        "description": "Elegancki stół wykonany z drewna dębowego.",
-        "thumbnail": "thumbnails/thumbnail1.jpg",
-        "model": "assets/models/model1.glb",
-        "category": "Stoły"
-    },
-        {
-        "title": "Pancerz Diegoxxx",
-        "description": "Elegancki stół wykonany z drewna dębowego.",
-        "thumbnail": "thumbnails/thumbnail1.jpg",
-        "model": "assets/models/model1.glb",
-        "category": "Stoły"
-    },
-        {
-        "title": "Pancerz Diegoxxx",
-        "description": "Elegancki stół wykonany z drewna dębowego.",
-        "thumbnail": "thumbnails/thumbnail1.jpg",
-        "model": "assets/models/model1.glb",
-        "category": "Stoły"
+        "category": "Broń dystansowa"
     }
 ]
