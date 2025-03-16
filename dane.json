@@ -9,7 +9,7 @@
         {
         "title": "Pancerz Diego2",
         "description": "Elegancki stół wykonany z drewna dębowego.",
-        "thumbnail": "thumbnails/thumbnail2.jpg",
+        "thumbnail": "assets/card/zbroja1.webp",
         "model": "assets/models/model2.glb",
         "category": "Skrzynie"
     },
