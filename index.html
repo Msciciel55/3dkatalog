@@ -7,26 +7,28 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>twojastara3d</h1>
-        <div class="category-buttons">
-            <button class="category-button" data-category="all">cos</button>
-            <button class="category-button" data-category="Stoły">cos</button>
-            <button class="category-button" data-category="Krzesła">cos</button>
-            <button class="category-button" data-category="Łóżka">cos</button>
-            <button class="category-button" data-category="Skrzynie">cos</button>
-        </div>
-    </header>
-
-    <main>
-        <section class="model-grid"></section>
-
-        <div id="model-viewer">
-            <button id="close-viewer">Zamknij</button>
-            <model-viewer src="" alt="Model 3D" auto-rotate camera-controls></model-viewer>
-        </div>
-    </main>
-    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
-    <script src="script.js"></script>
+    <div class="background"></div>
+    <div class="logo-container">
+        <img src="assets/img/logo.webp" alt="logo" class="logo-image">
+        <span class="logo-text">Msciciel</span>
+    </div>
+    <section class="main-grid">
+        <a href="kowal.html" class="main-card" data-category="Kowal">
+            <img src="assets/img/kowal.webp" alt="Kowal">
+            <div class="overlay">Kowal</div>
+        </a>
+        <a href="platnerz.html" class="main-card" data-category="Płatnerz">
+            <img src="assets/img/platnerz.webp" alt="Płatnerz">
+            <div class="overlay">Płatnerz</div>
+        </a>
+        <a href="krawiec.html" class="main-card" data-category="Krawiec">
+            <img src="assets/img/krawiec.webp" alt="Krawiec">
+            <div class="overlay">Krawiec</div>
+        </a>
+        <a href="ciesla.html" class="main-card" data-category="Cieśla">
+            <img src="assets/img/ciesla.webp" alt="Cieśla">
+            <div class="overlay">Cieśla</div>
+        </a>
+    </section>
 </body>
 </html>
