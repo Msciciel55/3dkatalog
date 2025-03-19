@@ -14,10 +14,10 @@
         "category": "Skrzynie"
     },
     {
-        "title": "Pancerz Diegoxxx",
+        "title": "Dom 1",
         "description": "Elegancki stół wykonany z drewna dębowego.",
-        "thumbnail": "thumbnails/thumbnail1.jpg",
-        "model": "assets/models/model1.glb",
+        "thumbnail": "assets/card/dom1.webp",
+        "model": "assets/models/DOM1.glb",
         "category": "Stoły craftingowe"
     },
         {
