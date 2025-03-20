@@ -42,9 +42,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 document.getElementById('model-title').textContent = model.title;
                 document.getElementById('model-description').textContent = model.description;
                 spinner.style.display = 'block';
-                modelViewerElement.setAttribute('src', model.model);
+                if (modelViewerElement.getAttribute('src') === model.model) {
+                    spinner.style.display = 'none';
+                } else {
+                    modelViewerElement.setAttribute('src', '');
+                    setTimeout(() => {
+                        modelViewerElement.setAttribute('src', model.model);
+                    }, 50);
+                }
+            
                 modelViewer.style.display = 'flex';
             });
+            
         });
     }
 
